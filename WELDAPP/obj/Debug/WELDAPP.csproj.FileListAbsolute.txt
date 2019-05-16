@@ -1,0 +1,94 @@
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\bin\Debug\WELDAPP.exe.config
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\bin\Debug\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\bin\Debug\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\MainWindow.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\MainWindow.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\App.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP_MarkupCompile.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.g.resources
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.Properties.Resources.resources
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.csproj.GenerateResource.Cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrVnesTeplo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrVnesTeplo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\App.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrUhlikovyEkv.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrUhlikovyEkv.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrPredehrev.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrPredehrev.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrVypoctyOstatni.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrVypoctyOstatni.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\OknoInfo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrInfo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\OknoInfo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrInfo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrGeometrie.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrGeometrie.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP_MarkupCompile.lref
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\JPpokusneResource.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrKalkulace.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\StrKalkulace.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.csproj.CoreCompileInputs.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Pokusy Databaze\CookbookSQL1\Cookbook1\WELDAPP\WELDAPP\obj\Debug\WELDAPP.csprojAssemblyReference.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\bin\Debug\WELDAPP.exe.config
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\bin\Debug\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\bin\Debug\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.csprojAssemblyReference.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\JPpokusneResource.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\MainWindow.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\OknoInfo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrGeometrie.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrInfo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrKalkulace.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrUhlikovyEkv.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrVnesTeplo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrVypoctyOstatni.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\App.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\MainWindow.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\OknoInfo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrGeometrie.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrInfo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrKalkulace.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrPredehrev.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrUhlikovyEkv.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrVnesTeplo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrVypoctyOstatni.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\App.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP_MarkupCompile.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP_MarkupCompile.lref
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\StrPredehrev.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.g.resources
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.Properties.Resources.resources
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.csproj.GenerateResource.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.csproj.CoreCompileInputs.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\JP\WELDAPP\WELDAPP\obj\Debug\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\bin\Debug\WELDAPP.exe.config
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\bin\Debug\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\bin\Debug\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\MainWindow.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\OknoInfo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrGeometrie.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrKalkulace.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrUhlikovyEkv.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrVnesTeplo.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\App.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\MainWindow.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\OknoInfo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrGeometrie.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrKalkulace.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrPredehrev.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrUhlikovyEkv.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrVnesTeplo.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\App.g.cs
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP_MarkupCompile.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP_MarkupCompile.lref
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\StrPredehrev.baml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.g.resources
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.Properties.Resources.resources
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.csproj.GenerateResource.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.csproj.CoreCompileInputs.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WELDAPP\obj\Debug\WELDAPP.csprojAssemblyReference.cache

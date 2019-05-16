@@ -1,0 +1,17 @@
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\WeldAppTests.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\WeldAppTests.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\WELDAPP.exe
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\WELDAPP.pdb
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\WELDAPP.exe.config
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\obj\Release\WeldAppTests.csprojAssemblyReference.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\obj\Release\WeldAppTests.csproj.CoreCompileInputs.cache
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\obj\Release\WeldAppTests.csproj.CopyComplete
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\obj\Release\WeldAppTests.dll
+C:\Users\JP\Dropbox\Dropbox\C sharp\Rework\JP-WELDAPP\WeldAppTests\obj\Release\WeldAppTests.pdb

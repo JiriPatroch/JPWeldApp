@@ -1,0 +1,43 @@
+﻿<Page x:Class="WELDAPP.StrUhlikovyEkv"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="StrUhlikovyEkv" Width="520" Height="350">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="509*"/>
+            <ColumnDefinition Width="11*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FF404040" HorizontalAlignment="Left" Height="352" Stroke="#FFFF8000" VerticalAlignment="Top" Width="520" Margin="0,0,0,-2" RadiusX="10" RadiusY="10" StrokeThickness="3" Opacity="0.5" Grid.ColumnSpan="2"/>
+
+        <Label x:Name="txtPopisekCekv" Content="Výpočet uhlíkového ekvivalentu (CET a CE)" VerticalAlignment="Top" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Center" Height="30" Width="369" Margin="0,10,0,0"/>
+        <Label x:Name="txtC" Content="C" VerticalAlignment="Top" Margin="24,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="23"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxC" HorizontalAlignment="Left" Margin="10,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <Label x:Name="txtMn" Content="Mn" VerticalAlignment="Top" Margin="86,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="36"/>
+        <Label x:Name="txtCr" Content="Cr" VerticalAlignment="Top" Margin="181,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="36"/>
+        <Label x:Name="txtMo" Content="Mo" VerticalAlignment="Top" Margin="242,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="36"/>
+        <Label x:Name="txtV" Content="V" VerticalAlignment="Top" Margin="314,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="37"/>
+        <Label x:Name="txtNi" Content="Ni" VerticalAlignment="Top" Margin="394,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="37"/>
+        <Label x:Name="txtCu" Content="Cu" VerticalAlignment="Top" Margin="456,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left" Height="29" Width="37"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxMn" HorizontalAlignment="Left" Margin="75,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxCr" HorizontalAlignment="Left" Margin="164,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxMo" HorizontalAlignment="Left" Margin="229,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxV" HorizontalAlignment="Left" Margin="294,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxNi" HorizontalAlignment="Left" Margin="379,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxCu" HorizontalAlignment="Left" Margin="444,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="27" FontSize="12" FontFamily="Arial Black" TextAlignment="Center" MaxLength="6" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="5" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <Button x:Name="btnVypocitejCae" Style="{StaticResource JPbuttonTemplate}" Content="Vypočítej" HorizontalAlignment="Center" Width="188" VerticalAlignment="Top" Height="35" Margin="166,185,154.833,0" Click="btnVypocitejCae_Click"  />
+        <Label x:Name="txtvysledekCET" Content="CET:" VerticalAlignment="Top" Margin="91,280,0,0" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Border x:Name="borderCae" BorderBrush="#FFC04000" BorderThickness="3" CornerRadius="10,0,10,0                     " HorizontalAlignment="Left" Height="35" Margin="163,275,0,0" VerticalAlignment="Top" Width="188">
+            <Label x:Name="txtVysledekCet" Content="" Foreground="#FFC04400" FontSize="17" FontFamily="Arial Black" HorizontalAlignment="Center"/>
+        </Border>
+        <Label x:Name="txtCaeJednotka" Content="[%hmot]" VerticalAlignment="Top" Margin="367,280,0,0" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtvysledekCae" Content="CE:" VerticalAlignment="Top" Margin="91,312,0,0" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtCaeJednotkaCae" Content="[%hmot]" VerticalAlignment="Top" Margin="367,312,0,0" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtVysledekCae" Content="" Foreground="#FFC04400" FontSize="15" FontFamily="Arial Black" Margin="211,312,205,8" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,19 @@
+﻿<Window x:Name="WindowInfo" x:Class="WELDAPP.OknoInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OknoInfo" Height="450" Width="750" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" WindowStyle="None" Foreground="{x:Null}" ShowInTaskbar="False" Background="{x:Null}" Visibility="Visible" AllowsTransparency="True" Topmost="True">
+    
+    <Grid>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="452" VerticalAlignment="Top" Width="750" Opacity="0.7"/>
+
+        <Border BorderBrush="#FFFF8000" BorderThickness="4" CornerRadius="15" Background="#FF404040" Width="400" Height="100">
+            <Grid>
+                <Label x:Name="txtPopisekOknoInfoPopis" Content="Beta verze aplikace" VerticalAlignment="Top" Foreground="#FFFF8000" FontFamily="Arial" HorizontalAlignment="Center" Margin="10,24,10,0" Height="48" Width="376" FontSize="14"/>
+                <Button x:Name="btnExitInfo" Style="{StaticResource JPbuttonTemplate}" Content="X" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Margin="352,72,0,0" Click="btnExitInfo_Click" BorderBrush="#FF727272" Height="20"/>
+                <Label x:Name="txtPopisekOknoInfoVerze" Content="Verze: 0.9.0" VerticalAlignment="Top" Foreground="#FFC04000" FontFamily="Arial" HorizontalAlignment="Center" Margin="10,70,292,0" Width="90"/>
+                <Label x:Name="txtPopisekOknoInfo1" Content="Info" VerticalAlignment="Top" Foreground="#FFC04000" FontFamily="Arial Black" HorizontalAlignment="Center" FontSize="15" Margin="175,0"/>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

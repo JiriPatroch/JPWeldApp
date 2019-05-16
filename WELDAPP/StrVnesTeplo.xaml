@@ -1,0 +1,36 @@
+﻿<Page x:Class="WELDAPP.StrVnesTeplo"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="StrVnesTeplo" Width="520" Height="350" Loaded="Page_Loaded">
+
+    <Grid>
+        <Rectangle Fill="#FF404040" HorizontalAlignment="Left" Height="352" Stroke="#FFFF8000" VerticalAlignment="Top" Width="520" Margin="0,0,0,-2" RadiusX="10" RadiusY="10" StrokeThickness="3" Opacity="0.5" Grid.ColumnSpan="2"/>
+        <Label x:Name="txtProud" Content="Proud I :" VerticalAlignment="Top" Margin="20,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtNapeti" Content="Napětí U:" VerticalAlignment="Top" Margin="20,106,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtRychlost" Content="Rychlost v:" VerticalAlignment="Top" Margin="20,147,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtMetoda" Content="Metoda:" VerticalAlignment="Top" Margin="20,189,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+
+
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxProud" HorizontalAlignment="Left" Margin="163,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" Height="27" FontSize="15" FontFamily="Arial Black" TextAlignment="Center" MaxLength="10" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="6" Text="0" RenderTransformOrigin="0.5,0.5" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxNapeti" HorizontalAlignment="Left" Height="27" Margin="163,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" FontSize="15" FontFamily="Arial Black" TextAlignment="Center" MaxLength="10" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="6" Text="0" Padding="1,5,1,1"/>
+        <TextBox Style="{StaticResource JPtxtBoxTemplate}" x:Name="boxRychlost" HorizontalAlignment="Left" Height="27" Margin="163,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" FontSize="15" FontFamily="Arial Black" TextAlignment="Center" MaxLength="10" Foreground="#FF404040" BorderBrush="#FFFF8000" Background="#FFFF8000" UndoLimit="6" Text="0" Padding="1,5,1,1"/>
+        <RadioButton x:Name="btnUP" Content="UP" HorizontalAlignment="Left" Margin="171,194,0,0" VerticalAlignment="Top" Background="#FFFF8000" Foreground="#FFFF8000" FontFamily="Arial Black" IsChecked="True" Checked="btnUP_Checked" BorderThickness="1,2,1,1"/>
+        <RadioButton x:Name="btnMIGMAG" Content="MIG / MAG / MMA" HorizontalAlignment="Left" Margin="224,194,0,0" VerticalAlignment="Top" Background="#FFFF8000" Foreground="#FFFF8000" FontFamily="Arial Black" Checked="btnMIGMAG_Checked"/>
+        <RadioButton x:Name="btnTIGMMA" Content="TIG" HorizontalAlignment="Left" Margin="372,194,0,0" VerticalAlignment="Top" Background="#FFFF8000" Foreground="#FFFF8000" FontFamily="Arial Black" Checked="btnTIGMMA_Checked"/>
+        <Label x:Name="txtVnesTeplo" Content="Vnesené teplo:" VerticalAlignment="Top" Margin="20,296,0,0" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Button x:Name="btnVypocitej" Style="{StaticResource JPbuttonTemplate}" Content="Vypočítej" Margin="163,232,0,0" HorizontalAlignment="Left" Width="188" VerticalAlignment="Top" Height="35" Click="btnVypocitej_Click"  />
+        <Border x:Name="borderVnesTeplo" BorderBrush="#FFC04000" BorderThickness="3" CornerRadius="10,0,10,0
+                    " HorizontalAlignment="Left" Height="35" Margin="163,292,0,0" VerticalAlignment="Top" Width="188">
+            <Label x:Name="txtVysledek" Content="" Foreground="#FFC04400" FontSize="17" FontFamily="Arial Black" HorizontalAlignment="Center"/>
+        </Border>
+        <Label x:Name="txtProud_Copy" Content="[A]" VerticalAlignment="Top" Margin="372,64,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtNapetiJednotka" Content="[V]" VerticalAlignment="Top" Margin="372,106,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtRychlostJednotka" Content="[cm/ min]" VerticalAlignment="Top" Margin="372,147,0,0" Foreground="#FFFF8000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtVnesTeploJednotka" Content="[kJ/ cm]" VerticalAlignment="Top" Margin="372,296,0,0" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"/>
+        <Label x:Name="txtPopisekVnesTeplo" Content="Výpočet vneseného tepla dle EN 1011-1" VerticalAlignment="Top" Foreground="#FFC04000" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Center" Margin="94,10,84,0" Background="{x:Null}" BorderThickness="1,1,2,1"/>
+    </Grid>
+</Page>
